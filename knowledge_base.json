@@ -1,0 +1,92 @@
+[
+  {
+    "id": "kb001",
+    "category": "Account Opening",
+    "question": "What documents are required to open a savings account?",
+    "answer": "To open a savings account you typically need: government-issued photo ID (Aadhaar/Passport/Driving License), PAN card, proof of address, and a recent passport-size photograph. Some banks also require an initial minimum deposit."
+  },
+  {
+    "id": "kb002",
+    "category": "Account Opening",
+    "question": "What is the minimum balance required for a savings account?",
+    "answer": "Minimum balance requirements vary by account type and bank. Basic savings accounts often have zero or low minimum balance requirements, while premium accounts may require 10,000 to 25,000 rupees. Check your specific account tier for exact requirements."
+  },
+  {
+    "id": "kb003",
+    "category": "Loans",
+    "question": "What is the eligibility criteria for a personal loan?",
+    "answer": "General eligibility includes: minimum age 21-60 years, stable income source (salaried or self-employed), minimum monthly income requirement (varies by bank), good credit score (typically 700+), and Indian residency. Specific requirements vary by lender."
+  },
+  {
+    "id": "kb004",
+    "category": "Loans",
+    "question": "How is home loan interest rate calculated?",
+    "answer": "Home loan interest rates are typically calculated using either reducing balance method (interest charged only on outstanding principal) or flat rate method. Most banks use reducing balance. Rates can be fixed or floating, linked to the bank's benchmark lending rate."
+  },
+  {
+    "id": "kb005",
+    "category": "Cards",
+    "question": "How do I block a lost or stolen debit/credit card?",
+    "answer": "You can block your card immediately through: the bank's mobile app (usually under 'Card Services'), calling the 24/7 customer care helpline, internet banking portal, or visiting a branch. Blocking immediately prevents unauthorized transactions."
+  },
+  {
+    "id": "kb006",
+    "category": "Cards",
+    "question": "What should I do if I notice an unauthorized transaction?",
+    "answer": "Immediately block your card, report the transaction to the bank's fraud helpline, file a written complaint within the timeframe specified by RBI guidelines (usually 3 days for zero liability), and monitor your account for further suspicious activity."
+  },
+  {
+    "id": "kb007",
+    "category": "KYC",
+    "question": "What is KYC and why is it required?",
+    "answer": "KYC (Know Your Customer) is a mandatory verification process required by RBI regulations to confirm customer identity and prevent fraud, money laundering, and financial crimes. It involves submitting identity proof, address proof, and periodic re-verification."
+  },
+  {
+    "id": "kb008",
+    "category": "KYC",
+    "question": "How often do I need to update my KYC?",
+    "answer": "KYC update frequency depends on risk categorization: low-risk customers typically update every 10 years, medium-risk every 8 years, and high-risk customers every 2 years, per RBI guidelines. Banks will notify you when an update is due."
+  },
+  {
+    "id": "kb009",
+    "category": "Digital Banking",
+    "question": "How do I activate mobile banking?",
+    "answer": "Mobile banking can typically be activated by downloading the bank's official app, registering with your account number and registered mobile number, verifying via OTP, and setting up an MPIN or biometric login."
+  },
+  {
+    "id": "kb010",
+    "category": "Digital Banking",
+    "question": "What is the daily transaction limit for UPI?",
+    "answer": "UPI transaction limits are typically set by NPCI guidelines and individual bank policies, commonly ranging from 1 lakh to 2 lakh rupees per day, though this varies by bank and account type. Check your specific bank's UPI limits in the app."
+  },
+  {
+    "id": "kb011",
+    "category": "Fixed Deposits",
+    "question": "Can I withdraw a fixed deposit before maturity?",
+    "answer": "Yes, premature withdrawal is usually allowed but typically incurs a penalty (often 0.5-1% reduction in interest rate) compared to the original agreed rate. Some tax-saving FDs have a lock-in period during which withdrawal is not permitted."
+  },
+  {
+    "id": "kb012",
+    "category": "Fixed Deposits",
+    "question": "Is TDS applicable on fixed deposit interest?",
+    "answer": "Yes, TDS (Tax Deducted at Source) applies if interest income from FDs exceeds the threshold set by the Income Tax Department (currently 40,000 rupees for regular citizens and 50,000 for senior citizens per financial year across all FDs with a bank)."
+  },
+  {
+    "id": "kb013",
+    "category": "Loans",
+    "question": "What documents are needed for a home loan application?",
+    "answer": "Typically required: identity and address proof, income proof (salary slips/ITR), bank statements (last 6 months), property documents, employment proof, and passport-size photographs. Self-employed applicants need additional business financial documents."
+  },
+  {
+    "id": "kb014",
+    "category": "Account Services",
+    "question": "How do I close my bank account?",
+    "answer": "To close an account: submit a written account closure request at your branch, return unused cheque books and cards, clear any outstanding dues or loans linked to the account, and the balance will be transferred or paid out after processing (typically 7-15 working days)."
+  },
+  {
+    "id": "kb015",
+    "category": "Account Services",
+    "question": "What is a nomination facility and why should I add a nominee?",
+    "answer": "Nomination allows you to designate a person who will receive the account balance/assets in case of the account holder's death, simplifying the transfer process without requiring legal succession certificates. It's strongly recommended for all accounts."
+  }
+]
