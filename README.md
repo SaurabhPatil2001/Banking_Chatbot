@@ -84,7 +84,7 @@ Response
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/banking-chatbot-guardrails.git
+git clone https://github.com/SaurabhPatil2001/Banking_Chatbot.git
 cd banking-chatbot-guardrails
 
 # Install dependencies
@@ -135,11 +135,16 @@ _Run `python evaluate.py` and update this table with your actual numbers:_
 
 | Metric | Result |
 |---|---|
-| Jailbreak Block Rate | XX% (X/15) |
-| Off-Topic Block Rate | XX% (X/8) |
-| Legitimate Query Pass Rate | XX% (X/10) |
+| Jailbreak Block Rate | 86% (13/15) |
+| Off-Topic Block Rate | 100% (8/8) |
+| Legitimate Query Pass Rate | 90% (9/10) |
 
 ---
+## 📸 Demo
+
+![Chatbot in action](screenshots/demo_screenshot.png)
+
+![Evaluation results](screenshots/evaluation_results.png)
 
 ## 🔮 Future Improvements
 
